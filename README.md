@@ -1,7 +1,7 @@
 # fluffy-succotash-code-stew
 A test repository
 
-I am excited to dive into github. Been an avid reader of code over the years. Now I am going to begin using github all the time. This iwll be fun. :)
+I am excited to dive into github. Been an avid reader of code over the years. Now I am going to begin using github all the time. This well be fun. :)
 
 I am using github to write out a set of short courses that I will be teaching online. The courses will solve for life-issues we humans face at different times.
 
